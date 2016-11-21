@@ -1,0 +1,13 @@
+c:\users\ssd\documents\visual studio 2015\Projects\MapsSmth\MapsSmth\bin\Debug\MapsSmth.exe.config
+c:\users\ssd\documents\visual studio 2015\Projects\MapsSmth\MapsSmth\bin\Debug\MapsSmth.exe
+c:\users\ssd\documents\visual studio 2015\Projects\MapsSmth\MapsSmth\bin\Debug\MapsSmth.pdb
+c:\users\ssd\documents\visual studio 2015\Projects\MapsSmth\MapsSmth\bin\Debug\GMap.NET.Core.dll
+c:\users\ssd\documents\visual studio 2015\Projects\MapsSmth\MapsSmth\bin\Debug\GMap.NET.WindowsForms.dll
+c:\users\ssd\documents\visual studio 2015\Projects\MapsSmth\MapsSmth\bin\Debug\GMap.NET.Core.xml
+c:\users\ssd\documents\visual studio 2015\Projects\MapsSmth\MapsSmth\bin\Debug\GMap.NET.WindowsForms.xml
+c:\users\ssd\documents\visual studio 2015\Projects\MapsSmth\MapsSmth\obj\Debug\MapsSmth.csprojResolveAssemblyReference.cache
+c:\users\ssd\documents\visual studio 2015\Projects\MapsSmth\MapsSmth\obj\Debug\MapsSmth.Form1.resources
+c:\users\ssd\documents\visual studio 2015\Projects\MapsSmth\MapsSmth\obj\Debug\MapsSmth.Properties.Resources.resources
+c:\users\ssd\documents\visual studio 2015\Projects\MapsSmth\MapsSmth\obj\Debug\MapsSmth.csproj.GenerateResource.Cache
+c:\users\ssd\documents\visual studio 2015\Projects\MapsSmth\MapsSmth\obj\Debug\MapsSmth.exe
+c:\users\ssd\documents\visual studio 2015\Projects\MapsSmth\MapsSmth\obj\Debug\MapsSmth.pdb
